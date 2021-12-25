@@ -41,3 +41,8 @@ function App() {
 }
 
 export default App;
+
+// todo
+// security
+// add time and date to sender line
+// add photo url from firebase
