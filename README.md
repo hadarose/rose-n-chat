@@ -1,4 +1,6 @@
-![image](https://user-images.githubusercontent.com/68274794/147394642-0caf575d-3f44-4418-9d9b-6d7fd802f207.png)
+![image](https://user-images.githubusercontent.com/68274794/147394662-12b5f5cc-d4b3-4c73-97a9-52ff707fa974.png)
+
+# This project is a chat room, built with create-react-app, react-hooks and firebase.
 
 ### `npm start`
 
